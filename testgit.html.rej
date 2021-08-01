@@ -1,0 +1,11 @@
+diff a/testgit.html b/testgit.html	(rejected hunks)
+@@ -18,8 +18,7 @@
+             <li>address</li>
+             <li></li>
+             <li></li>
+-            <li>da co them tinh nang tu may chu</li>
+-            <li>toi dang lam viec</li>
++            <li>delete feature!!</li>
+         </div>
+     </div>
+ </body>
